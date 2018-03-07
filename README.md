@@ -1,0 +1,2 @@
+# LayoutInflaterFactorySample
+LayoutInflaterFactory替换字体小例子。
